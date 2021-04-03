@@ -1,3 +1,5 @@
 ## Successfully linked GitHub repo to RStudio using SSH key and not HTTPS
 
-Officially off and rolling
+Let's get started
+
+Been a long time comin'
